@@ -14,7 +14,7 @@
           "type": "os"
         },
         {
-          "background": "#0000ff",
+          "background": "#3465a4",
           "foreground": "#000000",
           "powerline_symbol": "\ue0b4",
           "properties": {
@@ -25,7 +25,7 @@
           "type": "root"
         },
         {
-          "background": "#0000ff",
+          "background": "#3465a4",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b4",
           "properties": {
@@ -36,7 +36,7 @@
           "type": "path"
         },
         {
-          "background": "#D4E157",
+          "background": "#c19c00",
           "foreground": "#000000",
           "powerline_symbol": "\ue0b4",
           "style": "powerline",
@@ -50,7 +50,7 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "#D4E157",
+          "background": "#c19c00",
           "foreground": "#000000",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
@@ -85,7 +85,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#D4E157",
+          "foreground": "#c19c00",
           "foreground_templates": [
             "{{ if gt .Code 0 }}#FF5252{{ end }}"
           ],
